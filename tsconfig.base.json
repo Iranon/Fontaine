@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "sourceMap": true,
+    "composite": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "types": ["bun-types"],
+    "baseUrl": ".",
+    "paths": {
+      "fountain-parser": ["./modules/fountain-parser/src/index.ts"],
+      "fountain-renderer": ["./modules/fountain-renderer/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

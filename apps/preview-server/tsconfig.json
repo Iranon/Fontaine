@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "lib": ["es2022", "dom"]
+  },
+  "include": ["src/**/*"],
+  "references": [
+    { "path": "../../modules/fountain-parser" },
+    { "path": "../../modules/fountain-renderer" }
+  ]
+}

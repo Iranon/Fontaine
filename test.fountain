@@ -1,0 +1,454 @@
+Title: Fountain Renderer Test Suite
+Credit: written by
+Author: Jane Doe & John Smith
+Source: Original Screenplay
+Draft date: 02/14/2026
+Contact:
+    Jane Doe
+    123 Screenplay Lane
+    Los Angeles, CA 90028
+    jane@example.com
+
+====
+
+# ACT ONE
+
+## SEQUENCE A - THE BEGINNING
+
+### SCENE 1
+
+= Synopsis: We meet our protagonist ALEX in their cluttered apartment. The tone is established as darkly comedic.
+
+INT. ALEX'S APARTMENT - MORNING
+
+FADE IN:
+
+A cramped studio apartment. Every surface is covered with half-finished projects: model trains, sourdough starters, a disassembled motorcycle engine on the kitchen table.
+
+ALEX (30s, perpetually disheveled, wearing yesterday's clothes) sits on the edge of the bed staring at a phone.
+
+ALEX
+(to self)
+Today is the day. Today, I become a functional adult.
+
+The phone BUZZES. Alex glances at it.
+
+INSERT - PHONE SCREEN
+
+A notification reads: "OVERDUE: Return library books (347 days)."
+
+BACK TO SCENE
+
+ALEX
+(defeated)
+Tomorrow. Tomorrow is the day.
+
+Alex stands and shuffles toward the kitchen. Steps on a LEGO brick.
+
+ALEX
+AAAAAGH!
+
+.ALEX'S KITCHEN - CONTINUOUS
+
+Alex hops on one foot to the counter. Opens a cabinet: empty except for a single packet of hot sauce.
+
+ALEX
+(inspecting the packet)
+Diablo Fire Sauce... *expired 2019*... breakfast of champions.
+
+Alex's phone RINGS. The ringtone is an 8-bit version of Beethoven's 5th.
+
+ALEX
+(answering)
+Hello?
+
+MORGAN (V.O.)
+(filtered, excited)
+Alex! Get down here! I found it — I actually found it!
+
+ALEX
+Morgan, it's 7 AM. What could you possibly—
+
+MORGAN (V.O.)
+(interrupting)
+The map, Alex. _The_ map. The one Grandpa always talked about.
+
+A beat. Alex freezes mid-hop.
+
+ALEX
+...I'll be there in twenty.
+
+> SMASH CUT TO: <
+
+EXT. MORGAN'S ANTIQUE SHOP - DAY
+
+A quaint storefront wedged between a laundromat and a taco stand. A hand-painted sign reads "MORGAN'S CURIOSITIES & ODDITIES — EST. 2004."
+
+Alex BURSTS through the door.
+
+INT. MORGAN'S ANTIQUE SHOP - CONTINUOUS
+
+The shop is a labyrinth of shelves packed with globes, taxidermy, vintage typewriters, and things that defy categorization.
+
+MORGAN (40s, impeccably dressed, reading glasses perched on nose) stands behind a counter, carefully unrolling a yellowed piece of parchment.
+
+MORGAN
+Close the door! The humidity will destroy it.
+
+ALEX
+(out of breath)
+Is that really—
+
+MORGAN
+Seventeenth century. Portuguese cartographer. And look—
+(pointing)
+Right there. "Ilha do Tesouro Perdido."
+
+ALEX
+My Portuguese is rusty.
+
+MORGAN
+"Island of the Lost Treasure."
+
+ALEX
+That's... very on the nose.
+
+MORGAN
+Grandpa wasn't subtle.
+
+They both stare at the map.
+
+ALEX
+So what do we do?
+
+MORGAN
+What do you think? **We go find it.**
+
+Alex looks around the dusty shop. Looks down at the hot sauce packet still in hand. Looks back at Morgan.
+
+ALEX
+I've got nothing better to do.
+
+MORGAN
+That's the spirit.
+
+They shake hands over the map.
+
+/*
+This is a boneyard comment.
+It should NOT be rendered by the parser.
+This entire section is ignored.
+
+DELETED SCENE:
+ALEX
+I need to feed my cat first.
+
+MORGAN
+You don't have a cat.
+
+ALEX
+I might get one.
+*/
+
+CUT TO:
+
+EXT. MARINA - SUNSET
+
+A gorgeous golden-hour shot. Sailboats bob gently in the harbor. Seagulls wheel overhead.
+
+ALEX and MORGAN walk along the dock carrying duffel bags.
+
+ALEX
+(looking at boats)
+Please tell me it's not the one that's sinking.
+
+MORGAN
+(gesturing proudly)
+That one.
+
+He points to a 40-foot sailboat. It is, in fact, listing slightly to port. The name on the hull reads "OPTIMISM."
+
+ALEX
+"Optimism." Of course.
+
+MORGAN
+She's seaworthy. Mostly.
+
+ALEX
+"Mostly" is doing a lot of heavy lifting in that sentence.
+
+They board the boat.
+
+INT. SAILBOAT "OPTIMISM" - CABIN - NIGHT
+
+A cozy but cramped cabin. Maps and charts spread across a small table. A single bare bulb swings overhead.
+
+MORGAN
+(tracing a route on a nautical chart)
+We sail south along the coast, then cut west past the archipelago. Three days, maybe four.
+
+ALEX
+And then?
+
+MORGAN
+And then we find out if Grandpa was crazy or a genius.
+
+ALEX
+Those aren't mutually exclusive.
+
+MORGAN
+(smiling)
+No. No, they're not.
+
+~Bon Voyage
+
+Alex picks up an old PHOTOGRAPH from the shelf. It shows their grandfather standing on a tropical beach, grinning, holding a shovel.
+
+ALEX (CONT'D)
+(quietly)
+What did you find out there, old man?
+
+EXT. OPEN OCEAN - DAY (MONTAGE)
+
+.. title card: "DAY ONE" ..
+
+- Alex struggling with ropes, getting tangled.
+- Morgan at the helm, looking competent and serene.
+- A pod of DOLPHINS racing alongside the boat.
+- Alex attempting to cook, producing something that smokes ominously.
+- Morgan tossing Alex's creation overboard. A seagull catches it and immediately drops it.
+
+.. title card: "DAY TWO" ..
+
+- Rain. Lots of rain.
+- Alex bailing water with a coffee mug.
+- Morgan laughing.
+- A rainbow breaking through the clouds.
+- Alex and Morgan sharing a flask, watching the sunset.
+
+END MONTAGE.
+
+EXT. OPEN OCEAN - DAY THREE - DAWN
+
+The boat cuts through calm, crystal-clear water. In the distance: a lush green island rising from the sea like a dream.
+
+ALEX
+(whispered)
+Morgan... look.
+
+Morgan emerges from below deck, rubbing sleep from their eyes. Sees the island. Drops the coffee cup.
+
+MORGAN
+That's it. That's the island.
+
+ALEX
+(grinning)
+Grandpa wasn't crazy.
+
+MORGAN
+(grinning back)
+Jury's still out on genius.
+
+They sail toward the island.
+
+FADE TO:
+
+## SEQUENCE B - THE ISLAND
+
+### SCENE 2
+
+EXT. ISLAND BEACH - DAY
+
+The boat anchored offshore. Alex and Morgan wade through shallow turquoise water to a white sand beach. Dense jungle beyond.
+
+A figure emerges from the tree line.
+
+@McCALLISTER
+(cheerfully)
+Took you long enough! I've been waiting thirty years!
+
+McCALLISTER (60s, weathered, wild-haired, barefoot, wearing a tattered Hawaiian shirt) raises a hand in greeting.
+
+Alex and Morgan exchange a look.
+
+ALEX
+(sotto voce)
+Did Grandpa mention anyone else knowing about this place?
+
+MORGAN
+(sotto voce)
+No. No, he did not.
+
+McCALLISTER
+(approaching)
+You must be the Reeves grandkids! Got the look. Got the look right in the eyes.
+(beat)
+Well? You coming or not? Treasure's not gonna find itself!
+
+He turns and walks back into the jungle without waiting for a response.
+
+ALEX
+(to Morgan)
+On a scale of one to ten, how murdered are we about to be?
+
+MORGAN
+(already following McCallister)
+Only one way to find out.
+
+INT. JUNGLE PATH - DAY
+
+Dense foliage. Bird calls. Shafts of light cutting through the canopy.
+
+McCallister leads, machete in hand, cutting a path with practiced ease. Alex and Morgan follow.
+
+McCALLISTER
+(not looking back)
+Your grandpa and I served together. Navy. '62. He saved my life twice — once from a torpedo, once from a bad oyster.
+
+ALEX
+A bad oyster?
+
+McCALLISTER
+Allergic. Throat closed up like a— well, anyway. He found this island on shore leave. Said there was something here. Something old. Something ***valuable***.
+
+MORGAN
+And he told you about it?
+
+McCALLISTER
+Told me to guard it. So I did. Built a shack. Caught fish. Waited.
+(turning to face them)
+He said his grandkids would come someday. And here you are.
+
+ALEX
+Here we are.
+
+A long silence. The jungle hums around them.
+
+McCALLISTER
+(suddenly bright)
+Anyway! The cave's just up ahead. Watch out for the drop — it's a doozy!
+
+He disappears around a bend.
+
+ALEX
+(to Morgan)
+I've changed my answer. Eleven.
+
+> FADE OUT. <
+
+# ACT TWO
+
+## SEQUENCE C - THE CAVE
+
+INT. CAVE ENTRANCE - DAY
+
+ALEX
+I'm not going in there.
+
+MORGAN ^
+We have to go in there.
+
+They stare at each other. Alex blinks first.
+
+ALEX
+(whispering)
+What if there are bats?
+
+MORGAN ^
+(confident)
+Then we'll have company.
+
+McCALLISTER
+(from inside the cave)
+There are definitely bats!
+
+ALEX
+(to Morgan)
+Great. Wonderful.
+
+MORGAN ^
+(grinning)
+Think of it as an adventure.
+
+ALEX
+Fine.
+
+McCallister lights a TORCH and leads them inside.
+
+INT. CAVE - DEEP INTERIOR - CONTINUOUS
+
+The cave opens into a massive underground chamber. Stalactites hang from the ceiling like chandeliers. A subterranean river cuts through the center.
+
+And there, on a natural stone pedestal illuminated by a shaft of light from a crack in the ceiling above—
+
+A WOODEN CHEST.
+
+ALEX
+(breathless)
+No way.
+
+MORGAN
+(breathless)
+Way.
+
+McCALLISTER
+(matter-of-fact)
+Told you.
+
+They approach the chest slowly, reverently.
+
+MORGAN
+(reaching for the lid)
+Ready?
+
+ALEX
+Born ready.
+
+Morgan opens the chest. Golden light spills out.
+
+Inside: not gold, not jewels, but hundreds of leather-bound JOURNALS. Filled cover to cover with writings, diagrams, sketches of plants, animals, constellations.
+
+ALEX (CONT'D)
+(confused)
+Books? The treasure is... books?
+
+McCALLISTER
+(quietly)
+Knowledge. The greatest treasure there is.
+
+Morgan picks up a journal. Opens it carefully. Eyes go wide.
+
+MORGAN
+Alex... these are scientific observations. Detailed, meticulous records of species that don't exist in any database. This island...
+(looking up)
+This island is undiscovered. These records — they could change everything we know about marine biology, botany, zoology—
+
+ALEX
+(slowly understanding)
+Grandpa wasn't looking for gold.
+
+MORGAN
+He was looking for something better.
+
+A beat.
+
+ALEX
+(to McCallister)
+You've been guarding _scientific journals_ for thirty years?
+
+McCALLISTER
+(shrugging)
+Best job I ever had.
+
+They all laugh. The sound echoes through the cave.
+
+ALEX
+(picking up a journal)
+Well then... let's get reading.
+
+They sit in the cave, surrounded by decades of discovery, and begin to read.
+
+FADE OUT.
+
+
+> THE END <

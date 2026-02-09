@@ -1,0 +1,65 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "fontaine-monorepo",
+      "devDependencies": {
+        "bun-types": "latest",
+        "typescript": "latest",
+      },
+    },
+    "apps/preview-server": {
+      "name": "fontaine-preview-server",
+      "version": "0.1.0",
+      "dependencies": {
+        "fountain-parser": "*",
+        "fountain-renderer": "*",
+      },
+      "devDependencies": {
+        "bun-types": "latest",
+        "typescript": "latest",
+      },
+    },
+    "modules/fountain-parser": {
+      "name": "fountain-parser",
+      "version": "0.1.0",
+      "devDependencies": {
+        "bun-types": "latest",
+        "typescript": "latest",
+      },
+    },
+    "modules/fountain-renderer": {
+      "name": "fountain-renderer",
+      "version": "0.1.0",
+      "dependencies": {
+        "fountain-parser": "*",
+      },
+      "devDependencies": {
+        "bun-types": "latest",
+        "typescript": "latest",
+      },
+    },
+  },
+  "packages": {
+    "@types/node": ["@types/node@25.2.3", "", { "dependencies": { "undici-types": "~7.16.0" } }, "sha512-m0jEgYlYz+mDJZ2+F4v8D1AyQb+QzsNqRuI7xg1VQX/KlKS0qT9r1Mo16yo5F/MtifXFgaofIFsdFMox2SxIbQ=="],
+
+    "bun-types": ["bun-types@1.3.9", "", { "dependencies": { "@types/node": "*" } }, "sha512-+UBWWOakIP4Tswh0Bt0QD0alpTY8cb5hvgiYeWCMet9YukHbzuruIEeXC2D7nMJPB12kbh8C7XJykSexEqGKJg=="],
+
+    "fontaine-preview-server": ["fontaine-preview-server@workspace:apps/preview-server"],
+
+    "fountain-parser": ["fountain-parser@workspace:modules/fountain-parser"],
+
+    "fountain-renderer": ["fountain-renderer@workspace:modules/fountain-renderer"],
+
+    "typescript": ["typescript@5.9.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw=="],
+
+    "undici-types": ["undici-types@7.16.0", "", {}, "sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw=="],
+
+    "fontaine-preview-server/bun-types": ["bun-types@1.3.10", "", { "dependencies": { "@types/node": "*" } }, "sha512-tcpfCCl6XWo6nCVnpcVrxQ+9AYN1iqMIzgrSKYMB/fjLtV2eyAVEg7AxQJuCq/26R6HpKWykQXuSOq/21RYcbg=="],
+
+    "fountain-parser/bun-types": ["bun-types@1.3.10", "", { "dependencies": { "@types/node": "*" } }, "sha512-tcpfCCl6XWo6nCVnpcVrxQ+9AYN1iqMIzgrSKYMB/fjLtV2eyAVEg7AxQJuCq/26R6HpKWykQXuSOq/21RYcbg=="],
+
+    "fountain-renderer/bun-types": ["bun-types@1.3.10", "", { "dependencies": { "@types/node": "*" } }, "sha512-tcpfCCl6XWo6nCVnpcVrxQ+9AYN1iqMIzgrSKYMB/fjLtV2eyAVEg7AxQJuCq/26R6HpKWykQXuSOq/21RYcbg=="],
+  }
+}

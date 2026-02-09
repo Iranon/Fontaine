@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "modules/fountain-parser" },
+    { "path": "modules/fountain-renderer" },
+    { "path": "apps/preview-server" }
+  ]
+}

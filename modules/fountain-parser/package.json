@@ -1,0 +1,19 @@
+{
+  "name": "fountain-parser",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fountain parsing logic for Fontaine",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test --pass-with-no-tests"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "latest"
+  },
+  "license": "MIT",
+  "author": "Iranon",
+  "type": "module"
+}

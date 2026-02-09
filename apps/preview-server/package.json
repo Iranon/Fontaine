@@ -1,0 +1,24 @@
+{
+  "name": "fontaine-preview-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Preview server for Fountain documents",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "bun --hot src/server.ts",
+    "compile": "./compile.sh",
+    "test": "bun test --pass-with-no-tests"
+  },
+  "dependencies": {
+    "fountain-parser": "*",
+    "fountain-renderer": "*"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "latest"
+  },
+  "license": "MIT",
+  "author": "Iranon",
+  "type": "module"
+}

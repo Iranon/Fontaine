@@ -1,0 +1,22 @@
+{
+  "name": "fountain-renderer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HTML renderer for Fountain AST",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test --pass-with-no-tests"
+  },
+  "dependencies": {
+    "fountain-parser": "*"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "latest"
+  },
+  "license": "MIT",
+  "author": "Iranon",
+  "type": "module"
+}
