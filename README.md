@@ -1,4 +1,6 @@
-# Fontaine
+<p align="center">
+  <img src="docs/images/Fontaine.png" alt="Fontaine">
+</p>
 
 Fontaine is a project for parsing, rendering, and previewing [Fountain](https://fountain.io) screenplays.
 
@@ -99,11 +101,11 @@ The server runs with `--hot` reload enabled by default. Open your browser at `ht
 If you have compiled the standalone binary, you can run it directly:
 
 ```bash
-# macOS/Linux
-./fontaine-preview-TARGET_SUFFIX [/path/to/script.fountain]
+# macOS/Linux (e.g., ./fontaine-preview-darwin-arm64)
+./fontaine-preview-<target> [/path/to/script.fountain]
 
 # Windows
-./fontaine-preview-TARGET_SUFFIX.exe [/path/to/script.fountain]
+./fontaine-preview-windows-x64.exe [/path/to/script.fountain]
 ```
 
 #### Standalone Features
@@ -116,8 +118,8 @@ If you have compiled the standalone binary, you can run it directly:
 ## Output Examples
 > Browser Rendered Preview
 >
-> ![preview](https://github.com/Iranon/Fontaine/blob/main/docs/images/preview.png)
+> ![preview](docs/images/preview.png)
 
 > Print Preview
 > 
-> ![print-preview](https://github.com/Iranon/Fontaine/blob/main/docs/images/print-preview.png)
+> ![print-preview](docs/images/print-preview.png)
